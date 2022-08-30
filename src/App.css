@@ -32,7 +32,16 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
+}
+
+.App-border {
+  border: 1px solid black;
+}
+
+.col-4 {
+  padding: 1em;
 }
